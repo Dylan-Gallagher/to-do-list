@@ -1,0 +1,18 @@
+What you need:
+A container (array) of all the to-dos.
+An imput box to enter the to-do.
+An unordered list to show the to-dos.
+
+
+
+We have an input box with a "submit" button to the side of it.'
+Under the input box have a unordered list: This will show the user's to-dos.
+
+Initialize an array called 'list',
+    This will hold all of the user's to-dos
+When the user clicks submit (button.onClick), run a function that adds the text to the array ("list")
+
+Make a function that is activated on the click of the submit button
+    This adds the element of the array to the unordered list.
+    
+
